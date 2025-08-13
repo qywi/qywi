@@ -86,7 +86,7 @@ Includes multiple difficulty levels and custom puzzle generation.
 
 ## 📫 Contact Me
 <p align="left">
-  <a href="https://t.me/Qywi228"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" title="Telegram" alt="Telegram" width="40" height="40"/></a>
+  <a href="https://t.me/Qywi228"><img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" title="Telegram" alt="Telegram" width="40" height="40"/></a>
   <a href="mailto:bogdaniampol@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="Email" alt="Email" width="40" height="40"/></a>
   <a href="https://github.com/qywi"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/></a>
 </p>
